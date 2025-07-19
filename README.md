@@ -23,8 +23,8 @@
 ---
 
 ## Leaderboards
-| Platform | Scope | Link |
-| --- | --- | --- |
+| Platform | Scope |
+| --- | --- |
 | [alpaca_eval](https://tatsu-lab.github.io/alpaca_eval/)  | Instruction‑following ability vs GPT‑4 |
 | [open_llm_leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard) | Cross‑domain evals on )4 k open‑source LLMs |
 | [chatbot-arena-leaderboard](https://huggingface.co/spaces/lmarena-ai/chatbot-arena-leaderboard) | Crowd‑sourced Elo ranking of chat models |
