@@ -45,6 +45,18 @@ another cli but provides free use of claude 4 cuz of beta
 ## No Signup Multi Model Usage
 - https://umint-ai.hf.space/
 - https://mirexa.vercel.app/
+- https://aichatgptfree.org/
+- https://heck.ai
+- https://freegpt.es/
+- https://link.fuckicoding.com/
+- https://chatgptgratis.eu/ 
+- https://chat-1-1-cf.myai.asia/
+- https://chat2.free2gpt.com/ | only gemini
+- https://free.netfly.top/
+- https://origin.eqing.tech/ | backup sites here https://site.eqing.tech/
+- https://chat.ai365vip.com/en
+- https://newpc.icoding.ink/?debug=true
+- https://deepai.org/chat/gpt-chat
 
 ## Compatible with any api ai model
 - https://github.com/danny-avila/LibreChat
