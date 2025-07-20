@@ -11,7 +11,7 @@
 ### ⎛⎝(`ᢍ´)⎠⎞
 
 <kbd>
-<h3>
+<h2>
   
 ![No Sign Up Required](https://img.shields.io/badge/No--Signup--Required-darkgreen)
 | Topic | Links |
@@ -22,12 +22,12 @@
 | [🖳 IDEs](#ai-ides) | 0
 | [🔧 APIs](#developer-apis--platforms) | 2
 
-</h3> 
+</h2> 
 </kbd>
 ↔
 <kbd>
 
-<h3> 
+<h2> 
 
 
 ![Sign Up Required](https://img.shields.io/badge/Signup--Required-red)
@@ -39,7 +39,7 @@
 | [🗣️ Voice](#voice--music-1) | 5
 | [🖳 IDEs](#ai-ides-1) | 2
 | [🔧 APIs](#developer-apis--platforms-1) | 15
-</h3> 
+</h2> 
 
 </kbd>
 
