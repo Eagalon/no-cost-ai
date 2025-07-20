@@ -88,6 +88,18 @@
 | [mirexa.vercel.app](https://mirexa.vercel.app/) |`deepseek-v3`, `gpt-4.1`, `gpt-4.1-mini`, `gpt-4.1-nano`, `qwen2.5-coder-32b`, `mirexa`, `llama-4-scout-17b`, `mistral-small-3.1`, `phi-4`, `evil-mode` | Unlimited |
 | [aichatgptfree.org](https://aichatgptfree.org/) |`GPT-4`, `Deepseek AI`, `Gemini AI`, `XAI`, `Qwen AI` | Unlimited |
 | [heck.ai](https://heck.ai) |``deepseek-v3`, `deepseek-r1-pro`, `gemini-2.5-flash`, `chatgpt-4o-mini`, `chatgpt-4.1-mini`, `grok-3-mini`, `llama-4-scout`` | `50 query`/day, `5 Search` query/day, `1 AD`/day |
+| [freegpt.es](https://freegpt.es/) |  `gpt-4o`, `DeepSeek`, `Grok`, `Gemini` etc.. | `50 requests` per day or more |
+| [link.fuckicoding.com](https://link.fuckicoding.com/) |  `chatgpt-4.1-nano`, `o4-mini`, `chatgpt-4o-mini`, `claude-3.5-haiku`, `grok-3-mini`, `gemini-flash-8b`, `deepseek-v3`| Allow Alot of requests |
+| [chat2.free2gpt.com](https://chat2.free2gpt.com/) | `Gemini` | Allow Alot of requests |
+| [chatgptgratis.it](https://chatgptgratis.it/) | `gpt-4.1-mini`, `gpt-4.1-nano`, `gpt-4o-mini`, `deepseek-r1-0528`, `deepseek-v3-0324`|Unlimited|
+| [chat2.free2gpt.com]() | `gpt-4o-mini`, `wbot-t1-mini`, `wbot-4-347b`, `deepseek-chat`, `deepseek-coder`, `ds-r1-distill-70b`, `wbot-2`, `wbot-2-friend`, `wbot-2-cat-v2`, `wbot-2-cat-m`, `gpt-4.1-mini`| Allow Alot of requests also has JB prompts and loads of inbuilt options|
+| [free.netfly.top](https://free.netfly.top/) | `GPT-40-mini` |Unlimited|
+| [chat.ai365vip.com](https://chat.ai365vip.com/en) |`GPT-4o` |Unlimited|
+| [newpc.icoding.ink](https://newpc.icoding.ink/?debug=true) |`chatgpt-4.1-nano`, `o4-mini`, `chatgpt-4o-mini`, `claude-3.5-haiku`, `grok-3-mini`, `gemini-flash-8b`, `deepseek-v3`|Unlimited|
+| [deepai.org](https://deepai.org/chat/gpt-chat) |AI language model developed by `DeepAI` |Unlimited|
+
+
+
 
 
 ### Media Generation
@@ -120,17 +132,13 @@
 ## Signup Required
 
 ### Chat Interfaces
-#### Battle‑style or multi‑model playground
 | Link | Free Models | Limits |
 | --- | --- | --- |
 | [lobechat.com](https://lobechat.com/) |`gemini-2.5-pro`, `gemini-2.5-flash`, `gemini-2.0-flash-exp-image-generation`, `deepseek-chat`, `deepseek-reasoner`, `kimi-k2-0711-preview`, `gpt-4.1-nano`, `gpt-4o-mini`, `gpt-4o`, `gpt-4-turbo`, `claude-3-5-haiku-latest`, `gpt-4.1`, `gpt-4.1-mini`, `chatgpt-4o-latest`, `o3`, `o4-mini`, `claude-sonnet-4-latest`, `claude-3-7-sonnet-latest`, `claude-opus-4-latest`| `500,000 Tokens` Free resets every 30 days|
 | [poe.com](https://poe.com) |`Too many to list..`|`3,000 tokens` resets every 24h|
+| [origin.eqing.tech](https://origin.eqing.tech/), Backup [site.eqing.tech](https://site.eqing.tech/) |`gpt-4o-mini`, `gpt-4o-mini-image-free`, `gpt-4o-free`, `grok-3-free`, `gemini-2.0-flash-free`, `gemini-2.5-flash-free`, `gpt-4o-research-free`, `gpt-4o-all`, `gpt-4o-image`, `o4-mini`, `deepseek-v3-250324`, `claude-3.7-sonnet`, `grok-3`, `deepseek-r1-250528`, `grok-3-reasoner`, `grok-3-deepsearch`, `claude-4-sonnet`, `gemini-2.5-pro-preview-06-05`, `gpt-4o`, `gpt-4.1`, `gpt-4-5`, `o3`, `o4-mini-high`, `stable-diffusion-xl`|Unlimited|
 | [openrouter.ai](https://openrouter.ai/playground) | | |
 | [huggingface.co](https://huggingface.co/spaces) | | |
-
-#### Single‑model portals
-| Link | Free Models | Limits |
-| --- | --- | --- |
 | [claude.ai](https://claude.ai) | | |
 | [writesonic.com](https://writesonic.com/chat) | | |
 | [character.ai](https://character.ai) | | |
