@@ -81,7 +81,7 @@
 | [chat.mistral.ai](https://chat.mistral.ai) |`Le Chat`| `10 Messages` Resets Every 24h |
 | [perplexity.ai](https://perplexity.ai) |`GPT 3.5`, `GPT-4.1`, `Claude 4.0 Sonnet`|<kbd>• 3 Pro searches per day/unlimited basic quick searches. <br><br>• Up to 5 follow-up questions every 4 hours. <br><br>• 3 File uploads per day.<br><br>• Daily limits reset at midnight PT (UTC-7 or UTC-8).<kbd>  |
 | [grok.com](https://grok.com/chat) |`Grok 3` | `3 messages` every 2 h|
-| [flowgpt.com](https://flowgpt.com/) | `Many community made gpts free to use`|Unlimited|
+| [flowgpt.com](https://flowgpt.com/) | `Many community made gpts free to use`|Should be Unlimited|
 | [pi.ai](https://pi.ai) |`Large Language Model called Inflection-2.5` | Unlimited |
 | [sur.pollinations.ai](https://sur.pollinations.ai/) |`openai`, `sur`, `sur-mistral`, `claude`, `mistral`, `mistral-large`, `command-r`, `unity`, `rtist`, `searchgpt`| Unlimited|
 | [umint-ai.hf.space](https://umint-ai.hf.space/) |`gpt-4o-mini`, `grok-3-mini`, `gpt-4.1-nano`, `deepseek-r1-0528`, `gpt-4.1`, `qwen2.5-coder-32b`, `bidara`, `mistral-small-3.1-24b`, `phi-4-mini-3.8b`| Unlimited |
