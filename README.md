@@ -67,21 +67,31 @@
 
 | Link | Free Models | Limits |
 | --- | --- | --- |
-| [lmarena.ai](https://lmarena.ai/) | `kimi-k2-0711-preview`, `gemini-2.0-flash-001`, `claude-3-5-sonnet-20241022`, `grok-3-preview-02-24`, `llama-4-scout-17b-16e-instruct`, `llama-4-maverick-03-26-experi…`, `qwq-32b`, `grok-4-0709`, `hunyuan-turbos-20250416`, `minimax-m1`, `claude-sonnet-4-20250514-thin…`, `qwen3-235b-a22b-no-thinking`, `gemma-3n-e4b-it`, `claude-opus-4-20250514-thinki…`, `mistral-small-2506`, `grok-3-mini-high`, `llama-4-maverick-17b-128e-instr…`, `qwen3-30b-a3b`, `qwen-max-2025-01-25`, `qwen3-235b-a22b`, `llama-3.3-70b-instruct`, `claude-sonnet-4-20250514`, `claude-3-7-sonnet-20250219`, `gemini-2.5-flash-lite-preview-06-…`, `amazon-nova-experimental-cha…`, `claude-3-7-sonnet-20250219-thi…`, `claude-3-5-haiku-20241022`, `mistral-medium-2505`, `deepseek-v3-0324`, `magistral-medium-2506`, `command-a-03-2025`, `gpt-4.1-mini-2025-04-14`, `amazon.nova-pro-v1:0`, `o3-mini`, `grok-3-mini-beta`, `deepseek-r1-0528`, `o4-mini-2025-04-16`, `gpt-4.1-2025-04-14`, `claude-opus-4-20250514`, `gemini-2.5-flash`, `o3-2025-04-16`, `chatgpt-4o-latest-20250326`, `mistral-small-3.1-24b-instruct-2…`, `gemma-3-27b-it`|Unlimited|
-| [chat.qwen.ai](https://chat.qwen.ai/) | `Qwen3-235B-A22B`, `Qwen3-30B-A3B`, `Qwen3-32B`, `Qwen2.5-Max`|Unlimited |
+| [lmarena.ai](https://lmarena.ai/) | `kimi-k2-0711-preview`, `gemini-2.0-flash-001`, `claude-3-5-sonnet-20241022`, `grok-3-preview-02-24`, `llama-4-scout-17b-16e-instruct`, `llama-4-maverick-03-26-experi…`, `qwq-32b`, `grok-4-0709`, `hunyuan-turbos-20250416`, `minimax-m1`, `claude-sonnet-4-20250514-thin…`, `qwen3-235b-a22b-no-thinking`, `gemma-3n-e4b-it`, `claude-opus-4-20250514-thinki…`, `mistral-small-2506`, `grok-3-mini-high`, `llama-4-maverick-17b-128e-instr…`, `qwen3-30b-a3b`, `qwen-max-2025-01-25`, `qwen3-235b-a22b`, `llama-3.3-70b-instruct`, `claude-sonnet-4-20250514`, `claude-3-7-sonnet-20250219`, `gemini-2.5-flash-lite-preview-06-…`, `amazon-nova-experimental-cha…`, `claude-3-7-sonnet-20250219-thi…`, `claude-3-5-haiku-20241022`, `mistral-medium-2505`, `deepseek-v3-0324`, `magistral-medium-2506`, `command-a-03-2025`, `gpt-4.1-mini-2025-04-14`, `amazon.nova-pro-v1:0`, `o3-mini`, `grok-3-mini-beta`, `deepseek-r1-0528`, `o4-mini-2025-04-16`, `gpt-4.1-2025-04-14`, `claude-opus-4-20250514`, `gemini-2.5-flash`, `o3-2025-04-16`, `chatgpt-4o-latest-20250326`, `mistral-small-3.1-24b-instruct-2…`, `gemma-3-27b-it`|`Unlimited`|
+| [chat.qwen.ai](https://chat.qwen.ai/) | `Qwen3-235B-A22B`, `Qwen3-30B-A3B`, `Qwen3-32B`, `Qwen2.5-Max`|`Unlimited`|
+| [g4f.dev](https://g4f.dev/) | `Too many to list..`|`Unlimited i think`|
+| [meta.ai](https://www.meta.ai) | `Llama 4` |`Unlimited/Unkown`|
+| [sharedchat.cn](https://sharedchat.cn)|`gpt-4o`, `o3`, `o3-pro`, `o4-mini`, `o4-mini-high`|`Unlimited` but may be hard to get a responce as many others use it aswell but it really does work|
+| [phind.com](https://www.phind.com) | `Phind-70B`|`Unlimited`|
 | [groq.com](https://groq.com) | `Qwen/Qwen3-32b`, `Deepseek-R1-Distill-Llama-70b`, `Gemma2-9b-It`, `Compound-Beta`, `Compound-Beta-Mini`, `Compound-Beta-Kimi`, `Llama-3.3-70b-Versatile`, `Llama-3.1-8b-Instant`, `Llama3-70b-8192`, `Llama3-8b-8192`, `Meta-Llama/Llama-4-Maverick-17b-128e-Instruct`, `Meta-Llama/Llama-4-Scout-17b-16e-Instruct`, `Meta-Llama/Llama-Prompt-Guard-2-22m`, `Meta-Llama/Llama-Prompt-Guard-2-86m`, `Mistral-Saba-24b`, `Moonshotai/Kimi-K2-Instruct`| `30 requests` / min, `40 000 tokens` / min|
-| [meta.ai](https://www.meta.ai) | `Llama 4` |Unlimited/Unkown|
-| [phind.com](https://www.phind.com) | `Phind-70B`|Unlimited|
+| [app.lumioai.tech](https://app.lumioai.tech/) |`gpt-4o-mini`, `gpt-4.1-nano`, `gemini-2.0-flash`, `deepseek-v3-us-hosted`, `llama-4-scout-17b`, `sonar`|reasonable usage limits they say|
 | [chatgpt.com](https://chatgpt.com) |`GPT 3.5`, `GPT‑4 o`| `5-10 messages` of GPT 4o |
 | [chat.mistral.ai](https://chat.mistral.ai) |`Le Chat`| `10 Messages` Resets Every 24h |
 | [perplexity.ai](https://perplexity.ai) |`GPT 3.5`, `GPT-4.1`, `Claude 4.0 Sonnet`|<kbd>• 3 Pro searches per day/unlimited basic quick searches. <br><br>• Up to 5 follow-up questions every 4 hours. <br><br>• 3 File uploads per day.<br><br>• Daily limits reset at midnight PT (UTC-7 or UTC-8).<kbd>  |
 | [grok.com](https://grok.com/chat) |`Grok 3` | `3 messages` every 2 h|
+| [flowgpt.com](https://flowgpt.com/) | `Many community made gpts free to use`|Unlimited|
 | [pi.ai](https://pi.ai) |`Large Language Model called Inflection-2.5` | Unlimited |
+| [sur.pollinations.ai](https://sur.pollinations.ai/) |`openai`, `sur`, `sur-mistral`, `claude`, `mistral`, `mistral-large`, `command-r`, `unity`, `rtist`, `searchgpt`| Unlimited|
+
 
 ### Media Generation
 #### (Image‑/Video‑/Multimodal)
 | Link | Free Models | Limits |
 | --- | --- | --- |
+| [runwayml.com](https://runwayml.com/ ) |`Gen-4` a creative assistant built by Runway, helps generate images, videos, and stories. | Unlimited |
+| [pollinations.ai](https://pollinations.ai/) |`openai`, `sur`, `sur-mistral`, `claude`, `mistral`, `mistral-large`, `command-r`, `unity`, `rtist`, `searchgpt`| Unlimited|
+
+
 
 ### Voice & Music
 | Link | Free Models | Limits |
@@ -94,7 +104,8 @@
 ### Developer APIs & Platforms
 | Link | Free Models | Limits |
 | --- | --- | --- |
-| [ollama.com](https://ollama.com) | | |
+| [github/ollamafreeapi](https://github.com/mfoud444/ollamafreeapi/) |`To many to list..`|Unknown|
+| [ollama.com](https://ollama.com) |`To many to list..`|Unlimited run on cloud or local machine|
 
 ---
 
@@ -104,8 +115,8 @@
 #### Battle‑style or multi‑model playground
 | Link | Free Models | Limits |
 | --- | --- | --- |
-| [poe.com](https://poe.com) | | |
-| [sharedchat.cn](https://sharedchat.cn)| | |
+| [lobechat.com](https://lobechat.com/) |`gemini-2.5-pro`, `gemini-2.5-flash`, `gemini-2.0-flash-exp-image-generation`, `deepseek-chat`, `deepseek-reasoner`, `kimi-k2-0711-preview`, `gpt-4.1-nano`, `gpt-4o-mini`, `gpt-4o`, `gpt-4-turbo`, `claude-3-5-haiku-latest`, `gpt-4.1`, `gpt-4.1-mini`, `chatgpt-4o-latest`, `o3`, `o4-mini`, `claude-sonnet-4-latest`, `claude-3-7-sonnet-latest`, `claude-opus-4-latest`| `500,000 Tokens` Free resets every 30 days|
+| [poe.com](https://poe.com) |`Too many to list..`|`3,000 tokens` resets every 24h|
 | [openrouter.ai](https://openrouter.ai/playground) | | |
 | [huggingface.co](https://huggingface.co/spaces) | | |
 
@@ -167,6 +178,7 @@
 | [ibm.com](https://www.ibm.com/products/watsonx-ai) | | |
 | [huggingface.co](https://huggingface.co/models) | | |
 | [ai-sdk.dev](https://ai-sdk.dev) | | |
+| [llm7.io](https://llm7.io/) |`bidara`, `codestral-2405`, `codestral-2501`, `deepseek-r1-0528`, `elixposearch`, `gpt-4.1-nano-2025-04-14`, `gpt-4o-mini-2024-07-18`, `gpt-o3-2025-04-16`, `grok-3-mini-high`, `llama-3.1-8b-instruct-fp8`, `llama-4-scout-17b-16e-instruct`, `llama-fast-roblox`, `mistral-3b-2410`, `mistral-8b-2410`, `mirexa`, `mistral-large-2402`, `mistral-large-2407`, `mistral-large-2411`, `mistral-medium`, `mistral-nemo-roblox`, `mistral-saba-2502`, `mistral-small-2402`, `mistral-small-2409`, `mistral-small-2501`, `mistral-small-2503`, `mistral-small-3.1-24b`, `mistral-small-3.1-24b-instruct-2503`, `open-mistral-7b`, `open-mistral-nemo`, `open-mixtral-8x22b`, `open-mixtral-8x7b`, `phi-4-multimodal-instruct`, `pixtral-12b-2409`, `pixtral-large-2411`, `qwen2.5-coder-32b-instruct`, `rtist`|Max rate 150 per min |
 
 ---
 
