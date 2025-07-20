@@ -54,10 +54,12 @@
 ## Leaderboards
 | Link | Scope |
 | --- | --- |
+| [openrouter.ai/rankings](https://openrouter.ai/rankings)  | Openrouter leaderboard ranking|
 | [alpaca_eval](https://tatsu-lab.github.io/alpaca_eval/)  | Instruction‑following ability vs GPT‑4 |
 | [open_llm_leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard) | Cross‑domain evals on )4 k open‑source LLMs |
 | [chatbot-arena-leaderboard](https://huggingface.co/spaces/lmarena-ai/chatbot-arena-leaderboard) | Crowd‑sourced Elo ranking of chat models |
 | [mteb/leaderboard](https://huggingface.co/spaces/mteb/leaderboard) | 100 + languages, 1000 + NLP tasks |
+| [artificialanalysis.ai](https://artificialanalysis.ai/) | Intelligence of leading AI models based on their independent evaluations|
 
 ---
 
@@ -82,6 +84,10 @@
 | [flowgpt.com](https://flowgpt.com/) | `Many community made gpts free to use`|Unlimited|
 | [pi.ai](https://pi.ai) |`Large Language Model called Inflection-2.5` | Unlimited |
 | [sur.pollinations.ai](https://sur.pollinations.ai/) |`openai`, `sur`, `sur-mistral`, `claude`, `mistral`, `mistral-large`, `command-r`, `unity`, `rtist`, `searchgpt`| Unlimited|
+| [umint-ai.hf.space](https://umint-ai.hf.space/) |`gpt-4o-mini`, `grok-3-mini`, `gpt-4.1-nano`, `deepseek-r1-0528`, `gpt-4.1`, `qwen2.5-coder-32b`, `bidara`, `mistral-small-3.1-24b`, `phi-4-mini-3.8b`| Unlimited |
+| [mirexa.vercel.app](https://mirexa.vercel.app/) |`deepseek-v3`, `gpt-4.1`, `gpt-4.1-mini`, `gpt-4.1-nano`, `qwen2.5-coder-32b`, `mirexa`, `llama-4-scout-17b`, `mistral-small-3.1`, `phi-4`, `evil-mode` | Unlimited |
+| [aichatgptfree.org](https://aichatgptfree.org/) |`GPT-4`, `Deepseek AI`, `Gemini AI`, `XAI`, `Qwen AI` | Unlimited |
+| [heck.ai](https://heck.ai) |``deepseek-v3`, `deepseek-r1-pro`, `gemini-2.5-flash`, `chatgpt-4o-mini`, `chatgpt-4.1-mini`, `grok-3-mini`, `llama-4-scout`` | `50 query`/day, `5 Search` query/day, `1 AD`/day |
 
 
 ### Media Generation
@@ -90,12 +96,14 @@
 | --- | --- | --- |
 | [runwayml.com](https://runwayml.com/ ) |`Gen-4` a creative assistant built by Runway, helps generate images, videos, and stories. | Unlimited |
 | [pollinations.ai](https://pollinations.ai/) |`openai`, `sur`, `sur-mistral`, `claude`, `mistral`, `mistral-large`, `command-r`, `unity`, `rtist`, `searchgpt`| Unlimited|
-
+| [perchance.org/wtr90dexsn](https://perchance.org/wtr90dexsn) |Uses `pollinations` api | `Unlimited` only image gen |
+| [fotor.com](https://www.fotor.com/) |`Unknown` Uses ai to edit picture option is available | Unlimited editing |
 
 
 ### Voice & Music
 | Link | Free Models | Limits |
 | --- | --- | --- |
+| [mirexa.vercel.app](https://mirexa.vercel.app/) |`deepseek-v3`, `gpt-4.1`, `gpt-4.1-mini`, `gpt-4.1-nano`, `qwen2.5-coder-32b`, `mirexa`, `llama-4-scout-17b`, `mistral-small-3.1`, `phi-4`, `evil-mode` | Unlimited |
 
 ### AI IDEs
 | Link | Free Models | Limits |
@@ -160,7 +168,8 @@
 ### AI IDEs
 | Link | Free Models | Limits |
 | --- | --- | --- |
-| [kiro.dev](https://kiro.dev) | | |
+| [Rovo Dev Agents](https://rovodevagents-beta.atlassian.net/wiki/external/OWEyMmMwZjllYjgyNDQzNjgyNWNiN2VhYjQ3MGY4MzI) |`claude sonnet 4`, `claude opus 4` because of beta program |20 M Claude‑4 Sonnet tokens / day|
+| [kiro.dev](https://kiro.dev) |`Gemini 2.5 flash/pro`||
 
 ### Developer APIs & Platforms
 | Link | Free Models | Limits |
@@ -179,6 +188,7 @@
 | [huggingface.co](https://huggingface.co/models) | | |
 | [ai-sdk.dev](https://ai-sdk.dev) | | |
 | [llm7.io](https://llm7.io/) |`bidara`, `codestral-2405`, `codestral-2501`, `deepseek-r1-0528`, `elixposearch`, `gpt-4.1-nano-2025-04-14`, `gpt-4o-mini-2024-07-18`, `gpt-o3-2025-04-16`, `grok-3-mini-high`, `llama-3.1-8b-instruct-fp8`, `llama-4-scout-17b-16e-instruct`, `llama-fast-roblox`, `mistral-3b-2410`, `mistral-8b-2410`, `mirexa`, `mistral-large-2402`, `mistral-large-2407`, `mistral-large-2411`, `mistral-medium`, `mistral-nemo-roblox`, `mistral-saba-2502`, `mistral-small-2402`, `mistral-small-2409`, `mistral-small-2501`, `mistral-small-2503`, `mistral-small-3.1-24b`, `mistral-small-3.1-24b-instruct-2503`, `open-mistral-7b`, `open-mistral-nemo`, `open-mixtral-8x22b`, `open-mixtral-8x7b`, `phi-4-multimodal-instruct`, `pixtral-12b-2409`, `pixtral-large-2411`, `qwen2.5-coder-32b-instruct`, `rtist`|Max rate 150 per min |
+| [developer.puter.com](https://developer.puter.com/tutorials/free-unlimited-ai-api/) also [introduction](https://docs.puter.com/introduction/)|Too many to list..|None usage is account based|
 
 ---
 
