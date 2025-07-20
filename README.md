@@ -1,9 +1,3 @@
-<picture>
-  <source srcset="https://artificialanalysis.ai/trends#leading-models-by-ai-lab">
-  <img src="terminal-fallback.png" alt="Terminal Command">
-</picture>
-
-
 <div align="center">
 
 #### A living index for developers, researchers & curious builders contributions is welcome & appriciated!
