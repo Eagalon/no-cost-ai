@@ -209,3 +209,15 @@
 ## Contributing
 
 Contributions are welcome. Please open an issue or pull request to add a service or update existing information. Ensure all additions follow the established format.
+
+
+> [!WARNING]
+> **Use these services at your own risk.**
+>
+>   Assume that anything you type (prompts, files, personal details) is logged, stored, or shared.  
+>   Do **not** send sensitive or confidential information unless you fully trust the operator.
+>
+> **Reliability** – Free services disappear, rate-limit, or change their models without notice.  
+>   Never depend on them for production workloads, academic citations, or long-term storage.
+>
+> The maintainer of this repository has **no affiliation** with the listed sites and cannot guarantee their safety, legality, quality, or continued availability.
