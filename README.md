@@ -1,3 +1,9 @@
+<picture>
+  <source srcset="https://artificialanalysis.ai/trends#leading-models-by-ai-lab">
+  <img src="terminal-fallback.png" alt="Terminal Command">
+</picture>
+
+
 <div align="center">
 
 #### A living index for developers, researchers & curious builders contributions is welcome & appriciated!
@@ -196,12 +202,13 @@
 | [llm7.io](https://llm7.io/) |`bidara`, `codestral-2405`, `codestral-2501`, `deepseek-r1-0528`, `elixposearch`, `gpt-4.1-nano-2025-04-14`, `gpt-4o-mini-2024-07-18`, `gpt-o3-2025-04-16`, `grok-3-mini-high`, `llama-3.1-8b-instruct-fp8`, `llama-4-scout-17b-16e-instruct`, `llama-fast-roblox`, `mistral-3b-2410`, `mistral-8b-2410`, `mirexa`, `mistral-large-2402`, `mistral-large-2407`, `mistral-large-2411`, `mistral-medium`, `mistral-nemo-roblox`, `mistral-saba-2502`, `mistral-small-2402`, `mistral-small-2409`, `mistral-small-2501`, `mistral-small-2503`, `mistral-small-3.1-24b`, `mistral-small-3.1-24b-instruct-2503`, `open-mistral-7b`, `open-mistral-nemo`, `open-mixtral-8x22b`, `open-mixtral-8x7b`, `phi-4-multimodal-instruct`, `pixtral-12b-2409`, `pixtral-large-2411`, `qwen2.5-coder-32b-instruct`, `rtist`|Max rate 150 per min |
 | [developer.puter.com](https://developer.puter.com/tutorials/free-unlimited-ai-api/) also [introduction](https://docs.puter.com/introduction/)|Too many to list..|None usage is account based|
 
-### Model Rankings
+## Model Rankings
 
-<picture>
-  <source srcset="http://164.90.187.218:8080/test-gitlab">
-  <img src="fallback.png" alt="GitLab Test">
-</picture>
+<img width="4004" height="1912" alt="Artificial Analysis Intelligence Index by Model Type (19 Jul '25) " src="https://github.com/user-attachments/assets/eed0f7cd-2a50-4df6-a268-7cfdfa5f7405" />
+<img width="4004" height="1700" alt="Leading Models by AI Lab (19 Jul '25) " src="https://github.com/user-attachments/assets/d40a4cb1-2924-4a84-bd3a-cd03e3992ce5" />
+<img width="4004" height="1912" alt="Artificial Analysis Intelligence Index by Open Weights vs Proprietary (19 Jul '25) " src="https://github.com/user-attachments/assets/6eb51dc7-6ca0-487e-8029-1b87657e169f" />
+<img width="4004" height="1700" alt="Model Size - Total and Active Parameters (19 Jul '25) " src="https://github.com/user-attachments/assets/215408e8-1a4d-47b6-a62a-3c0294d114df" />
+
 
 ---
 
