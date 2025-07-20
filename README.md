@@ -18,7 +18,7 @@
 ![No Sign Up Required](https://img.shields.io/badge/No--Signup--Required-darkgreen)
 | Topic | Links |
 | --- | --- |
-| [🗫 Chat](#chat-interfaces)| 28
+| [🗫 Chat](#chat-interfaces)| 29
 | [🎞️ Media](#media-generation)| 4
 | [🗣️ Voice](#voice--music)| 1
 | [🖳 IDEs](#ai-ides) | 0
@@ -97,6 +97,7 @@
 | [chat.ai365vip.com](https://chat.ai365vip.com/en) |`GPT-4o` |Unlimited|
 | [newpc.icoding.ink](https://newpc.icoding.ink/?debug=true) |`chatgpt-4.1-nano`, `o4-mini`, `chatgpt-4o-mini`, `claude-3.5-haiku`, `grok-3-mini`, `gemini-flash-8b`, `deepseek-v3`|Unlimited|
 | [deepai.org](https://deepai.org/chat/gpt-chat) |AI language model developed by `DeepAI` |Unlimited|
+| [deepinfra.com/chat)]https://deepinfra.com/chat) | |Unlimited|
 
 
 
