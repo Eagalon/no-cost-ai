@@ -1,5 +1,7 @@
 <div align="center">
 
+### Spend 0$ on SOTA Models!
+
 #### A living index for developers, researchers & curious builders contributions is welcome & appriciated!
 
 ![Free‑AI](https://img.shields.io/badge/Free--AI-List-blue)
