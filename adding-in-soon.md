@@ -1,21 +1,3 @@
-- https://www.useinvent.com/ | signup required but very good
-- https://freeaichatplayground.com/ | decent but alot of non working models | repo https://github.com/bypepe77/Freeaichatplayground-client
-- https://app.lumioai.tech | access to 5+ models limited tokens no signup
-- https://g4f.dev | access not many models no signup
-- https://flowgpt.com
-- https://lobechat.com/ | many free models 1million tokens or smt free | https://github.com/lobehub/lobe-chat
-
-## free api sign up and loads of other things
-https://pollinations.ai
-
-### Free api no signup
-- https://github.com/mfoud444/ollamafreeapi/
-
-
-
-Chat/generate video&image no signup
-- https://runwayml.com/ | 150 free credits
-  <img width="1396" height="449" alt="image" src="https://github.com/user-attachments/assets/af4aff04-00fa-4909-b6e0-9045ae6e612b" />
 
 - https://perchance.org/wtr90dexsn
 
