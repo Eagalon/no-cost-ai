@@ -8,10 +8,6 @@
 ![Status](https://img.shields.io/badge/Status-Active-green)
 ![License](https://img.shields.io/badge/License-MIT-brightgreen)
 
-<kbd> Website </kbd>
-
-### ⎛⎝(`ᢍ´)⎠⎞
-
 <kbd>
 <h2>
   
@@ -45,7 +41,7 @@
 
 </kbd>
 
-#### [Model Rankings](#model-rankings) • [Leaderboards](#leaderboards) • [Contributing](#contributing)
+### [Model Rankings](#model-rankings) • [Leaderboards](#leaderboards) • [Contributing](#contributing)
 
 </div>
 
