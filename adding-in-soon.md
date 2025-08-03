@@ -1,7 +1,7 @@
 ## TODO LIST
 - Add more free websites/apis
-- Create a website alternative for ease of use
 - Fill in the remaining missing information for links
+- testing other websites and apis and adding in a list for the best current ones
 
 
 ---
