@@ -14,10 +14,10 @@
 ![No Sign Up Required](https://img.shields.io/badge/No--Signup--Required-darkgreen)
 | Topic | Links |
 | --- | --- |
-| [🗫 Chat](#chat-interfaces)| 29
+| [💬 Chat](#chat-interfaces)| 29
 | [🎞️ Media](#media-generation)| 4
 | [🗣️ Voice](#voice--music)| 1
-| [🖳 IDEs](#ai-ides) | 0
+| [🖥️ IDEs](#ai-ides) | 0
 | [🔧 APIs](#developer-apis--platforms) | 2
 
 </h2> 
@@ -32,10 +32,10 @@
 
 | Topic | Links |
 | --- | --- |
-| [🗫 Chat](#chat-interfaces-1) | 11
+| [💬 Chat](#chat-interfaces-1) | 11
 | [🎞️ Media](#media-generation-1) | 13
 | [🗣️ Voice](#voice--music-1) | 5
-| [🖳 IDEs](#ai-ides-1) | 2
+| [🖥️ IDEs](#ai-ides-1) | 2
 | [🔧 APIs](#developer-apis--platforms-1) | 15
 </h2> 
 
