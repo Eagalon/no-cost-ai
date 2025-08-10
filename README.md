@@ -93,8 +93,7 @@
 | [chat.ai365vip.com](https://chat.ai365vip.com/en) |`GPT-4o` |Unlimited|
 | [newpc.icoding.ink](https://newpc.icoding.ink/?debug=true) |`chatgpt-4.1-nano`, `o4-mini`, `chatgpt-4o-mini`, `claude-3.5-haiku`, `grok-3-mini`, `gemini-flash-8b`, `deepseek-v3`|Unlimited|
 | [deepai.org](https://deepai.org/chat/gpt-chat) |AI language model developed by `DeepAI` |Unlimited|
-| [deepinfra.com/chat](https://deepinfra.com/chat) |`OpenAI GPT OSS 120B`, `Kimi K2`, `GLM 4.5`, `Qwen3 Coder Turbo`, `DeepSeek R1 0528 Turbo`, `DeepSeek V3 0324 Turbo`, `Llama 4 Maverick Turbo`
- |Unlimited|
+| [deepinfra.com/chat](https://deepinfra.com/chat) |`OpenAI GPT OSS 120B`, `Kimi K2`, `GLM 4.5`, `Qwen3 Coder Turbo`, `DeepSeek R1 0528 Turbo`, `DeepSeek V3 0324 Turbo`, `Llama 4 Maverick Turbo`|Unlimited|
 
 
 
