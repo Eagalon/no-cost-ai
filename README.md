@@ -1,6 +1,6 @@
 <div align="center">
 
-### Spend 0$ on SOTA Ai-Models
+### Spend 0$ on Ai-Models!
 
 #### A living index for developers, researchers & curious builders contributions is welcome & appriciated!
 
